@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://vikasediting.com/sitemap.xml
+Sitemap: https://vikasediting.homes/sitemap.xml
